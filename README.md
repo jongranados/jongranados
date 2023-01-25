@@ -5,7 +5,6 @@
 
 <h2>About Me</h2>
 
----
 <p align='justify'>
     I studied mechanical engineering at USC ✌️ and went on to start a small e-commerce business specializing in rapid prototyping and manufacturing equipment. Over time though, I slowly realized that I was much more passionate about the engineering of products than the business behind them. 
 </p>
@@ -28,8 +27,6 @@
 <br>
 
 <h2>My Tech Stack</h2>
-
----
 
 <h3>• Proficient with:</h3>
 
