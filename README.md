@@ -3,11 +3,8 @@
         color: purple;
         margin-left: 40px;
     }
-    body {
-        background-color: linen;
-    }
     .test { 
-        color: cream;
+        color: green;
         margin-left: 40px;
     }
 </style>
